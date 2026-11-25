@@ -1,19 +1,20 @@
 """Best Meal entry: write one sentence about the best meal ever had.
 
-The sentence is a single concrete memory: a bowl of soup left at the
-door after a father's funeral, still warm, with a note that turns grief
-into care in its final phrase. It is written verbatim to
-/output/entry.txt, exactly one sentence of 158 characters.
+The sentence is a single concrete memory: cold rice and salted egg
+shared from one plastic bag on a night bus, saved all day by the man
+beside me for someone he would never see again. It is written verbatim
+to /output/entry.txt, exactly one sentence of 166 characters.
 """
 
 import os
 
 ENTRY = (
-    # One sentence, 158 characters: concrete dish, place, moment, and a
-    # closing twist ("eat first, grieve later") that reframes the meal.
-    "The best meal I ever had was a bowl of soup my neighbour left at "
-    "my door after my father's funeral, still warm, with a note that "
-    "said eat first, grieve later."
+    # One sentence, 166 characters: concrete dish, place, moment, and a
+    # closing twist (saved all day for someone he would never see again)
+    # that reframes the meal.
+    "My best meal was cold rice and salted egg shared from one "
+    "plastic bag on a night bus, and the man beside me had saved "
+    "it all day for someone he would never see again."
 )
 
 
