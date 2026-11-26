@@ -8,14 +8,7 @@ to /output/entry.txt, exactly one sentence of 166 characters.
 
 import os
 
-ENTRY = (
-    # One sentence, 166 characters: concrete dish, place, moment, and a
-    # closing twist (saved all day for someone he would never see again)
-    # that reframes the meal.
-    "My best meal was cold rice and salted egg shared from one "
-    "plastic bag on a night bus, and the man beside me had saved "
-    "it all day for someone he would never see again."
-)
+ENTRY = "The best meal of my life was instant noodles cooked in a hotel kettle at 3 in the morning, and the stranger who shared them charged me nothing but the story of how he lost his restaurant."
 
 
 def main() -> None:
